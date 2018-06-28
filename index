@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+
+<!--
+Template Name: Decentium
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+<head><link rel="shortcut icon" href="images\icon.ico"/>
+
+<title>CSE BGSBU| Home</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Top Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/demo/gallery/03a.jpg');height:900px;"> 
+  <!-- ################################################################################################ -->
+  <div class="wrapper row1">
+    <header id="header" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <div id="logo" class="fl_left">
+	  
+         <h1><a href="index.php" style="font-family:calibri;font-size:36px;padding:10px;"><img src="images\demo\gallery\logo.jpg" style="height:70px;">CSE BGSBU</a></h1>
+		
+      </div>
+      <nav id="mainav" class="fl_right">
+        <ul class="clear">
+          <li class="active"><a href="index.php">Home</a></li>
+          <li><a class="drop" href="#">Department</a>
+            <ul>
+              <li><a href="gallery.php">Gallery</a></li>
+              <li><a href="faculty.php">Faculty</a></li>
+              <li><a href="infrastructure.php">Research</a></li>
+              <li><a href="events.php">Events</a></li>
+			   <li><a href="notification.php">Notifications</a></li>
+              <li><a href="sports.php">Sports</a></li>
+            </ul>
+          </li>
+          <li><a class="drop" href="#">Services</a>
+            <ul>
+              
+              <li><a class="drop" href="#">Syllabus</a>
+                <ul>
+                  <li><a href="#">1st Semester</a></li>
+                  <li><a href="#">2nd Semester</a></li>
+                  <li><a href="#">3rd Semester</a></li>
+				  <li><a href="#">4th Semester</a></li>
+                  <li><a href="#">5th Semester</a></li>
+                  <li><a href="#">6th Semester</a></li>
+				  <li><a href="#">7th Semester</a></li>
+                  <li><a href="#">8th Semester</a></li>
+                  
+                </ul>
+              </li>
+			                 <li><a href="placement.php">Placements</a></li>
+               <li><a href="feedback.php">Feedback</a></li>
+            </ul>
+          </li>
+          <li><a href="loginindex.php">Alumni Login</a></li>
+          <li><a href="contactus.php">Contact Us </a></li>
+        </ul>
+      </nav>
+      <!-- ################################################################################################ -->
+    </header>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div id="pageintro" class="hoc clear">
+    <div class="flexslider basicslider"> 
+      <!-- ################################################################################################ -->
+      <ul class="slides">
+        <li>
+          <article>
+            <p class="heading"><strong></strong></p>
+            <img src="images/demo/gallery/09.jpg" style="border-radius:32px;">
+			
+            <h2 class="heading" style="font-size:20px;font-family:calibri;">Matlab Workshop</h2>
+           
+          </article>
+		  </li>
+		  <li>
+		  <article>
+            <p class="heading"><strong></strong></p>
+            
+            <img src="images/demo/gallery/05a.jpg" style="border-radius:32px;">
+			<h2 class="heading" style="font-size:20px;font-family:calibri;">Students Presenting projects to H'VC on Annual Day</h2>
+            
+          </article>
+		  </li>
+		  <li>
+		  <article>
+            <p class="heading"><strong></strong></p>
+          
+            <img src="images/demo/gallery/10.jpg" style="border-radius:32px;">
+			  <h2 class="heading" style="font-size:26px;font-family:calibri;">Students Presenting Skit to H'VC on Annual Day</h2>
+            
+          </article>
+        </li>
+		 <li>
+		  <article>
+            <p class="heading"><strong></strong></p>
+            
+            <img src="images/demo/gallery/08.jpg" style="border-radius:32px;">
+			<h2 class="heading" style="font-size:26px;font-family:calibri;">Matlab Workshop Validictory</h2>
+            
+          </article>
+        </li>
+		 <li>
+		  <article>
+            <p class="heading" style="font-family:calibri;"></p>
+            
+            <img src="images/demo/gallery/07.jpg" style="border-radius:32px;">
+			<h2 class="heading" style="font-size:26px;font-family:calibri;">Annual Day Celebrations</h2>
+           
+          </article>
+        </li>
+        
+      <li>
+			  
+      </li>
+	  </ul>
+	  
+	 <center> <a class="btn" href="gallery.php">View More</a></center>
+
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+</div>
+<!-- End Top Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+
+
+
+
+
+
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+	
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<div class="wrapper row3">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+   
+    <div class="group">
+      
+      <article class="one_third first"><a href="#"><img class="btmspace-30" src="images/demo/vc.jpg" style="border-radius:75px;height:220px;"alt=""></a>
+        <h6 class="heading" style="font-family:calibri;">Vice Chancellor's Message</h6>
+        <p>On the auspicious occasion of 13thFounder’s day of the Baba Ghulam Shah Badshah University, I take the opportunity to congratulate the Hon’ble Chancellor of the University, Madam Mehbooba Mufti Sahiba, Faculty members, Administrative officers, Non-teaching staff, Students, 
+		and all the well-wishers of the university, for their unstinted support and valuable contributions.&hellip;</p>
+        <p class="nospace"><a href="#">Read More &raquo;</a></p>
+      </article>
+      <article class="one_third"><a href="#"><img class="btmspace-30" src="images/demo/hod.jpg" style="border-radius:75px;height:220px;" alt=""></a>
+        <h6 class="heading" style="font-family:calibri;">From The HOD'S Desk</h6>
+        <p>The Department of Computer Science and Engineering at the College of Engineering and Technology was started in 2007. The aim of the Department is to strive for better and best accomplishments. TheDepartment is contributing to the social needs of
+		the society and ensuring sustainable development of the country as well as the world, on a whole.&hellip;</p>
+        <p class="nospace"><a href="#">Read More &raquo;</a></p>
+      </article>
+	  <article class="one_third">
+        <h6 class="heading">Notifications:-</h6>
+        <p class="btmspace-30">
+		
+		<marquee direction="up" height="350" scrollamount="3" onmouseover="this.stop()" onmouseout="this.start()">
+		<ul>
+		<li><a href="#" style="font-family:calibri;">Practical Examination held on 23
+		</li>
+		<li><a href="#">5th sem result 
+		</li>
+		<li><a href="#">Sessional
+		</li>
+		<li><a href="#">Examination
+		</li>
+		</marquee>
+		</ul>
+		
+        <footer><a class="btn" href="notification.php">View All &raquo;</a></footer>
+      </article>
+    </div>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_third first">
+      <h6 class="heading">REACH TO US:</h6>
+      <ul class="nospace btmspace-30 linklist contact">
+        <li><i class="fa fa-map-marker"></i>
+          <address>
+          Dhanore; 9858281377, Rajouri, 185234
+          </address>
+        </li>
+        <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
+        <li><i class="fa fa-envelope-o"></i> info@coetbgsbu.org</li>
+      </ul>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="http://facebook.com/csecoetpage/"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+        
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading">Heading</h6>
+      <ul class="nospace linklist">
+        <li>
+          <article>
+            <h2 class="nospace font-x1"><a href="#">Example</a></h2>
+            <time class="font-xs block btmspace-10" datetime="2045-04-06">Friday, 6<sup>th</sup> December 2017</time>
+            <p class="nospace"></p>
+          </article>
+        </li>
+        <li>
+          <article>
+            <h2 class="nospace font-x1"><a href="#">example 2</a></h2>
+            <time class="font-xs block btmspace-10" datetime="2045-04-05">Thursday, 5<sup>th</sup> December 2017</time>
+            <p class="nospace">example 3;</p>
+          </article>
+        </li>
+      </ul>
+    </div>
+	 <div class="one_third">
+      <h6 class="heading">About Devloper</h6>
+	  <p><b>Ovais Altaf Hakak CSE-2014</b></p>
+	  <p><b>Moazam Farhan Banday CSE-2014</b></p>
+	  <p><b>Aqleem Makhdoomi CSE-2014</b></p>
+</div>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<script src="layout/scripts/jquery.flexslider-min.js"></script>
+</body>
+</html>
